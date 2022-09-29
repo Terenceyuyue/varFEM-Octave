@@ -2,7 +2,7 @@
 
 [TOC]
 
-This is the Ocatve version for varFEM. 
+This is the Ocatve version of varFEM. 
 
 Note: 
 
