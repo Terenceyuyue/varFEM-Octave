@@ -1,6 +1,16 @@
-# varFEM: Variational formulation based programming for Finite Element Methods in MATLAB
+# varFEM: Variational formulation based programming for Finite Element Methods
 
 [TOC]
+
+This is the Ocatve version for varFEM. 
+
+Note: (1) Run startup.m first and make sure you have installed the symbolic toolbox.
+
+      (2) Some examples involving the PDE tool of Matlab can not be executed. 
+      
+      (3) Plotting problems may be encountered for examples in test folder.
+      
+      (4) I recommend using the Matlab version.
  
  --------------
 
