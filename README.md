@@ -4,7 +4,9 @@
 
 This is the Ocatve version for varFEM. 
 
-Note: (1) Run startup.m first and make sure you have installed the symbolic toolbox.
+Note: 
+
+      (1) Run startup.m first and make sure you have installed the symbolic toolbox.
 
       (2) Some examples involving the PDE tool of Matlab can not be executed. 
       
